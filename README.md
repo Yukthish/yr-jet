@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,4 +52,4 @@ export default tseslint.config({
 =======
 # yr-jet
 A fun, single-page website designed for entertainment and demonstration. It features a dynamic, responsive layout optimized for both desktop and mobile, interactive navigation with smooth transitions, and a custom-designed glowing jet icon. Explore and enjoy the unique design!
->>>>>>> 4a4da7875eb5e00e15ff6fd478701df360cabe62
+

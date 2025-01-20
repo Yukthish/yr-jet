@@ -1,0 +1,28 @@
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100" height="100" role="img" aria-hidden="true">
+
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur" />
+      <feMerge>
+        <feMergeNode in="coloredBlur" />
+        <feMergeNode in="coloredBlur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g fill="#41D1FF" filter="url(#glow)">
+    <polygon points="100,10 120,50 100,90 80,50" />
+    
+    <polygon points="80,50 20,80 50,90 80,70" />
+    <polygon points="120,50 180,80 150,90 120,70" />
+
+    <polygon points="90,90 110,90 100,110" />
+  </g>
+</svg>
+
+
+

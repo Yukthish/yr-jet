@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="font-display text-5xl md:text-6xl lg:text-7xl mb-6 gradient-text">
-            The Future of Denfence Aviation
+            The Future of Defence Aviation
           </h2>
           <p className="text-xl text-gray-400 mb-8">
             Pushing the boundaries of aerospace technology with next-generation military aircraft
